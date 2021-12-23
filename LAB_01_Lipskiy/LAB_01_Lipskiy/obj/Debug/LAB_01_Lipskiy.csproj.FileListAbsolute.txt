@@ -1,0 +1,20 @@
+D:\kpi\navrotskyi\LAB_01_Olshewski\LAB_01_Olshewski\bin\Debug\LAB_01_Olshewski.exe.config
+D:\kpi\navrotskyi\LAB_01_Olshewski\LAB_01_Olshewski\bin\Debug\LAB_01_Olshewski.exe
+D:\kpi\navrotskyi\LAB_01_Olshewski\LAB_01_Olshewski\bin\Debug\LAB_01_Olshewski.pdb
+D:\kpi\navrotskyi\LAB_01_Olshewski\LAB_01_Olshewski\obj\Debug\LAB_01_Olshewski.csprojAssemblyReference.cache
+D:\kpi\navrotskyi\LAB_01_Olshewski\LAB_01_Olshewski\obj\Debug\LAB_01_Olshewski.Form1.resources
+D:\kpi\navrotskyi\LAB_01_Olshewski\LAB_01_Olshewski\obj\Debug\LAB_01_Olshewski.Properties.Resources.resources
+D:\kpi\navrotskyi\LAB_01_Olshewski\LAB_01_Olshewski\obj\Debug\LAB_01_Olshewski.csproj.GenerateResource.cache
+D:\kpi\navrotskyi\LAB_01_Olshewski\LAB_01_Olshewski\obj\Debug\LAB_01_Olshewski.csproj.CoreCompileInputs.cache
+D:\kpi\navrotskyi\LAB_01_Olshewski\LAB_01_Olshewski\obj\Debug\LAB_01_Olshewski.exe
+D:\kpi\navrotskyi\LAB_01_Olshewski\LAB_01_Olshewski\obj\Debug\LAB_01_Olshewski.pdb
+C:\Users\Ihteandr\Desktop\Лаб. Ліпський О.Г. РЕ-11 МП\LAB_01_Lipskiy\LAB_01_Lipskiy\bin\Debug\LAB_01_Olshewski.exe.config
+C:\Users\Ihteandr\Desktop\Лаб. Ліпський О.Г. РЕ-11 МП\LAB_01_Lipskiy\LAB_01_Lipskiy\bin\Debug\LAB_01_Olshewski.exe
+C:\Users\Ihteandr\Desktop\Лаб. Ліпський О.Г. РЕ-11 МП\LAB_01_Lipskiy\LAB_01_Lipskiy\bin\Debug\LAB_01_Olshewski.pdb
+C:\Users\Ihteandr\Desktop\Лаб. Ліпський О.Г. РЕ-11 МП\LAB_01_Lipskiy\LAB_01_Lipskiy\obj\Debug\LAB_01_Lipskiy.csproj.AssemblyReference.cache
+C:\Users\Ihteandr\Desktop\Лаб. Ліпський О.Г. РЕ-11 МП\LAB_01_Lipskiy\LAB_01_Lipskiy\obj\Debug\LAB_01_Olshewski.Form1.resources
+C:\Users\Ihteandr\Desktop\Лаб. Ліпський О.Г. РЕ-11 МП\LAB_01_Lipskiy\LAB_01_Lipskiy\obj\Debug\LAB_01_Olshewski.Properties.Resources.resources
+C:\Users\Ihteandr\Desktop\Лаб. Ліпський О.Г. РЕ-11 МП\LAB_01_Lipskiy\LAB_01_Lipskiy\obj\Debug\LAB_01_Lipskiy.csproj.GenerateResource.cache
+C:\Users\Ihteandr\Desktop\Лаб. Ліпський О.Г. РЕ-11 МП\LAB_01_Lipskiy\LAB_01_Lipskiy\obj\Debug\LAB_01_Lipskiy.csproj.CoreCompileInputs.cache
+C:\Users\Ihteandr\Desktop\Лаб. Ліпський О.Г. РЕ-11 МП\LAB_01_Lipskiy\LAB_01_Lipskiy\obj\Debug\LAB_01_Olshewski.exe
+C:\Users\Ihteandr\Desktop\Лаб. Ліпський О.Г. РЕ-11 МП\LAB_01_Lipskiy\LAB_01_Lipskiy\obj\Debug\LAB_01_Olshewski.pdb

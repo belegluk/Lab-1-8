@@ -1,0 +1,7 @@
+D:\kpi\navrotskyi\LAB_08_Olshewski\LAB_08_Olshewski\LAB_08_Olshewski\bin\Debug\LAB_08_Olshewski.exe.config
+D:\kpi\navrotskyi\LAB_08_Olshewski\LAB_08_Olshewski\LAB_08_Olshewski\bin\Debug\LAB_08_Olshewski.exe
+D:\kpi\navrotskyi\LAB_08_Olshewski\LAB_08_Olshewski\LAB_08_Olshewski\bin\Debug\LAB_08_Olshewski.pdb
+D:\kpi\navrotskyi\LAB_08_Olshewski\LAB_08_Olshewski\LAB_08_Olshewski\obj\Debug\LAB_08_Olshewski.csproj.AssemblyReference.cache
+D:\kpi\navrotskyi\LAB_08_Olshewski\LAB_08_Olshewski\LAB_08_Olshewski\obj\Debug\LAB_08_Olshewski.csproj.CoreCompileInputs.cache
+D:\kpi\navrotskyi\LAB_08_Olshewski\LAB_08_Olshewski\LAB_08_Olshewski\obj\Debug\LAB_08_Olshewski.exe
+D:\kpi\navrotskyi\LAB_08_Olshewski\LAB_08_Olshewski\LAB_08_Olshewski\obj\Debug\LAB_08_Olshewski.pdb

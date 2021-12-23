@@ -1,0 +1,10 @@
+D:\kpi\navrotskyi\LAB_02_Olshewski\LAB_02_Olshewski\bin\Debug\LAB_02_Olshewski.exe.config
+D:\kpi\navrotskyi\LAB_02_Olshewski\LAB_02_Olshewski\bin\Debug\LAB_02_Olshewski.exe
+D:\kpi\navrotskyi\LAB_02_Olshewski\LAB_02_Olshewski\bin\Debug\LAB_02_Olshewski.pdb
+D:\kpi\navrotskyi\LAB_02_Olshewski\LAB_02_Olshewski\obj\Debug\LAB_02_Olshewski.csprojAssemblyReference.cache
+D:\kpi\navrotskyi\LAB_02_Olshewski\LAB_02_Olshewski\obj\Debug\LAB_02_Olshewski.Form1.resources
+D:\kpi\navrotskyi\LAB_02_Olshewski\LAB_02_Olshewski\obj\Debug\LAB_02_Olshewski.Properties.Resources.resources
+D:\kpi\navrotskyi\LAB_02_Olshewski\LAB_02_Olshewski\obj\Debug\LAB_02_Olshewski.csproj.GenerateResource.cache
+D:\kpi\navrotskyi\LAB_02_Olshewski\LAB_02_Olshewski\obj\Debug\LAB_02_Olshewski.csproj.CoreCompileInputs.cache
+D:\kpi\navrotskyi\LAB_02_Olshewski\LAB_02_Olshewski\obj\Debug\LAB_02_Olshewski.exe
+D:\kpi\navrotskyi\LAB_02_Olshewski\LAB_02_Olshewski\obj\Debug\LAB_02_Olshewski.pdb

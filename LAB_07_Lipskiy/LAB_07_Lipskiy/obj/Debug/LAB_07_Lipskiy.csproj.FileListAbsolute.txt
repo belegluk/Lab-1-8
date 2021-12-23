@@ -1,0 +1,2 @@
+D:\kpi\navrotskyi\LAB_07_Olshewski\LAB_07_Olshewski\obj\Debug\LAB_07_Olshewski.csprojAssemblyReference.cache
+D:\kpi\navrotskyi\LAB_07_Olshewski\LAB_07_Olshewski\obj\Debug\LAB_07_Olshewski.csproj.CoreCompileInputs.cache
